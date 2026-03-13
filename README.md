@@ -52,24 +52,6 @@ Autonomous hexacopter flight software using **ROS2, MAVLink, and YOLO**.
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdvaitJN&show_icons=true&theme=tokyonight)
-
----
-
-# 🧠 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaitJN&layout=compact&theme=tokyonight)
-
----
-
-# 🔥 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdvaitJN&theme=tokyo-night)
-
----
-
 # 📫 Connect With Me
 
 🌐 Website: https://advaitjn.dev  
